@@ -1,0 +1,1 @@
+export {OtpVerifyScreen} from './OtpVerifyScreen';

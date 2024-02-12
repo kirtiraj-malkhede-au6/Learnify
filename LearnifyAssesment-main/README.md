@@ -1,0 +1,5 @@
+--> go to project directory in terminal
+--> run $$ npm install --force
+--> for ios run --> cd ios --> pod install
+--> after installing nodemodules run below command in project directory $$ npx --> react-native run-android or $$ npx react-native run-ios $$
+--> Incase metro not started automatically then run below command in project --> directory $$ npx react-native start
